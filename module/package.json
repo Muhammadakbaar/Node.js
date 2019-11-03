@@ -1,0 +1,14 @@
+{
+  "name": "cobanode",
+  "version": "1.0.0",
+  "description": "pertama kali belajar node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "hello world"
+  },
+  "author": "akbar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
